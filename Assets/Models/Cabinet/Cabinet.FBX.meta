@@ -103,6 +103,25 @@ ModelImporter:
     4300032: HingeP004
     4300034: Hinge003
     4300036: HingePin003
+    6400000: //RootNode
+    6400002: CabinetDoor
+    6400004: CabinetDoor001
+    6400006: Hinge
+    6400008: Hinge001
+    6400010: Hinge002
+    6400012: Hinge003
+    6400014: Hinge01
+    6400016: Hinge01 1
+    6400018: HingeP004
+    6400020: HingeP005
+    6400022: HingePin
+    6400024: HingePin001
+    6400026: HingePin002
+    6400028: HingePin003
+    6400030: Knob
+    6400032: Knob001
+    6400034: Shelf01
+    6400036: Shelf02
     7400000: Take 001
     9500000: //RootNode
   externalObjects: {}
@@ -138,7 +157,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     useSRGBMaterialColor: 1
     importVisibility: 1
     importBlendShapes: 1
