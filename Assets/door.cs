@@ -10,14 +10,15 @@ public class door : MonoBehaviour
     public Text myText;
     public float fadeTime;
     public bool displayInfo;
-    private key myScript;
+    public key myScript;
 
     // Start is called before the first frame update
     void Start()
     {
         //myText = GameObject.Find("").GetComponent<Text>();
         myText.color = Color.clear;
-        myScript = GetComponent<key>();
+        //myScript = GetComponentInChildren<key>();
+        
     }
 
     // Update is called once per frame
@@ -28,11 +29,10 @@ public class door : MonoBehaviour
 
     private void OnMouseOver()
     {
-
-            if (Input.GetKeyDown(KeyCode.Mouse0))
-            {
-               displayInfo = true;
-            }
+        if (Input.GetKeyDown(KeyCode.Mouse0))
+        {
+           displayInfo = true;
+        }
     }
     private void OnMouseExit()
     {
@@ -42,7 +42,7 @@ public class door : MonoBehaviour
     {
         if (displayInfo)
         {
-            if (myScript.keyPickedUp==true)
+            if (myScript.keyPickedUp)
             {
                 myText.text = openString;
             }
