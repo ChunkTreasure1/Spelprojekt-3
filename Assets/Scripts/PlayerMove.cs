@@ -1,7 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
 
 public class PlayerMove : MonoBehaviour
 {
@@ -12,9 +11,6 @@ public class PlayerMove : MonoBehaviour
     [SerializeField] private float walkSpeed, runSpeed;
     [SerializeField] private float runBuildUpSpeed;
     [SerializeField] private KeyCode runKey;
-
-    //REMOVE
-    [SerializeField] private Text text;
 
     private float movementSpeed;
     
@@ -31,12 +27,6 @@ public class PlayerMove : MonoBehaviour
 
     private bool Crouched;
     private bool isJumping;
-
-    private void Start()
-    {
-        text.text = "";
-        text.enabled = false;
-    }
 
     private void Awake()
     {
