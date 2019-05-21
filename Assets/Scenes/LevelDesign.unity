@@ -2636,6 +2636,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (39)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2690,11 +2695,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (39)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -2794,6 +2794,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (6)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2848,11 +2853,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (6)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -3229,6 +3229,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (47)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3284,11 +3289,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (47)
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
 --- !u!4 &204977936 stripped
@@ -3310,6 +3310,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (33)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3364,11 +3369,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (33)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -3924,6 +3924,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (10)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3978,11 +3983,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (10)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -4221,6 +4221,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (12)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4275,11 +4280,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (12)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -4766,6 +4766,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4820,11 +4825,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -5361,6 +5361,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (38)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5415,11 +5420,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (38)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -5817,6 +5817,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (2)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5871,11 +5876,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (2)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -6548,6 +6548,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (22)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6602,11 +6607,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (22)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -6760,6 +6760,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (8)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6814,11 +6819,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (8)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -8635,6 +8635,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (11)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -8689,11 +8694,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (11)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -9053,6 +9053,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (36)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -9108,11 +9113,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (36)
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
 --- !u!1001 &623167701
@@ -9122,6 +9122,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (34)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -9177,11 +9182,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (34)
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
 --- !u!1001 &623179602
@@ -9191,6 +9191,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (26)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -9245,11 +9250,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (26)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -10803,6 +10803,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (14)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -10857,11 +10862,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (14)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -11030,6 +11030,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (35)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -11084,11 +11089,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (35)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -12132,6 +12132,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (46)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -12186,11 +12191,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (46)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -12379,6 +12379,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (28)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -12433,11 +12438,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (28)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -12740,6 +12740,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (7)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -12794,11 +12799,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (7)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -14718,6 +14718,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (42)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -14772,11 +14777,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (42)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -15381,6 +15381,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (20)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -15435,11 +15440,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (20)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -16407,6 +16407,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (9)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -16462,11 +16467,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (9)
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
 --- !u!1001 &1203030858
@@ -16476,6 +16476,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (21)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -16530,11 +16535,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (21)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -17267,6 +17267,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (4)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -17321,11 +17326,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (4)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -17550,6 +17550,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (41)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -17604,11 +17609,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (41)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -17911,6 +17911,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (44)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -17965,11 +17970,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (44)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -18856,6 +18856,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (30)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -18910,11 +18915,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (30)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -19086,6 +19086,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (40)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -19140,11 +19145,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (40)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -20000,6 +20000,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (37)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -20055,11 +20060,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (37)
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
 --- !u!1001 &1512659581
@@ -20069,6 +20069,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (3)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -20124,11 +20129,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (3)
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
 --- !u!4 &1513280437 stripped
@@ -20144,6 +20144,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (15)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -20198,11 +20203,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (15)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -20689,6 +20689,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (13)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -20743,11 +20748,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (13)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -20832,6 +20832,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (19)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -20887,11 +20892,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (19)
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
 --- !u!1001 &1608245627
@@ -20901,6 +20901,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (31)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -20955,11 +20960,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (31)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -21454,6 +21454,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (48)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -21508,11 +21513,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (48)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -22178,6 +22178,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (18)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -22232,11 +22237,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (18)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -22613,6 +22613,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (24)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -22667,11 +22672,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (24)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -23436,6 +23436,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (5)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -23490,11 +23495,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (5)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -23585,6 +23585,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (43)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -23639,11 +23644,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (43)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -24138,6 +24138,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (1)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -24192,11 +24197,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (1)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -24591,6 +24591,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (32)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -24645,11 +24650,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (32)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -24904,6 +24904,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (16)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -24958,11 +24963,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (16)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -25395,6 +25395,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (25)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -25449,11 +25454,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (25)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -25688,6 +25688,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (27)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -25743,11 +25748,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (27)
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
 --- !u!1001 &2052708367
@@ -25757,6 +25757,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (29)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -25811,11 +25816,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (29)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -26058,6 +26058,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (45)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -26112,11 +26117,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (45)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -26509,6 +26509,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (17)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -26563,11 +26568,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (17)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
@@ -26971,6 +26971,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
+        type: 3}
+      propertyPath: m_Name
+      value: Bookshelf (23)
+      objectReference: {fileID: 0}
     - target: {fileID: 3054840999470908523, guid: 13306d3a1f0c51d4f911b887a08d6b05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -27025,11 +27030,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3054840999471011915, guid: 13306d3a1f0c51d4f911b887a08d6b05,
-        type: 3}
-      propertyPath: m_Name
-      value: Bookshelf (23)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13306d3a1f0c51d4f911b887a08d6b05, type: 3}
