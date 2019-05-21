@@ -7,6 +7,7 @@ public class Clue : MonoBehaviour
 {
     [SerializeField] private string TextToShow;
     [SerializeField] private BoxCollider Area;
+    [SerializeField] private Text NotificationText;
 
     private GameObject Text;
     private bool Entered = false;
@@ -33,6 +34,8 @@ public class Clue : MonoBehaviour
         {
             //Show interact text
             Entered = true;
+            NotificationText.text = "Press F to investigate";
+            NotificationText.enabled = true;
         }
     }
 
@@ -41,6 +44,8 @@ public class Clue : MonoBehaviour
         if (collider.gameObject.CompareTag("Player"))
         {
             Entered = false;
+            NotificationText.text = "";
+            NotificationText.enabled = false;
         }
     }
 }

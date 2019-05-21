@@ -41,10 +41,6 @@ public class Note : MonoBehaviour
                     Resume();
                 }
             }
-            if (Input.GetKeyDown(KeyCode.F))
-            {
-                flipPage();
-            }
         }
     }
     void Pause()
