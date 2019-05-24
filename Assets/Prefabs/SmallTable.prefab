@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 5221302550592785018}
   - component: {fileID: 5221302550591490650}
   - component: {fileID: 5221302550590490778}
+  - component: {fileID: 5748852102564125921}
   m_Layer: 0
   m_Name: SmallTable
   m_TagString: Untagged
@@ -77,3 +78,17 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &5748852102564125921
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5221302550592689754}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300000, guid: 6d5ed2d52c6b9294e8fc7a88d5027c95, type: 3}
