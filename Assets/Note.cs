@@ -7,16 +7,15 @@ public class Note : MonoBehaviour
     public static bool gameIsPaused = false;
     public static bool Page1 = true;
     public static bool page2 = false;
-    private displayE myScript;
 
     public GameObject note1;
     public GameObject note2;
     public GameObject noteMenuUI;
     public GameObject noteCanvas;
+    public displayE myScript;
 
     private void Start()
     {
-        myScript = noteCanvas.GetComponent<displayE>();
     }
 
     void Update()
@@ -46,11 +45,13 @@ public class Note : MonoBehaviour
     void Pause()
     {
         noteMenuUI.SetActive(true);
+        Cursor.visible = true;
         Time.timeScale = 0f;
         gameIsPaused = true;
     }
     public void Resume()
     {
+        Cursor.visible = false;
         noteMenuUI.SetActive(false);
         Time.timeScale = 1f;
         gameIsPaused = false;

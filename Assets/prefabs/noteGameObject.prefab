@@ -176,7 +176,8 @@ MonoBehaviour:
   note1: {fileID: 4669967777120416641}
   note2: {fileID: 5206179885858025861}
   noteMenuUI: {fileID: 6999759350313944158}
-  noteCanvas: {fileID: 0}
+  noteCanvas: {fileID: 6999759350313944158}
+  myScript: {fileID: 5851657489536469321}
 --- !u!1 &2351858265193563537
 GameObject:
   m_ObjectHideFlags: 0
