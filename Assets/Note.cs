@@ -40,6 +40,10 @@ public class Note : MonoBehaviour
                     Resume();
                 }
             }
+            if (Input.GetKeyDown(KeyCode.F) && gameIsPaused)
+            {
+                flipPage();
+            }
         }
     }
     void Pause()

@@ -1142,7 +1142,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Flip Note
+  m_Text: 'Press F to flip
+
+'
 --- !u!1 &6991797017549670131
 GameObject:
   m_ObjectHideFlags: 0
@@ -1452,4 +1454,6 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Put down note
+  m_Text: 'Press ESC to exit
+
+'
