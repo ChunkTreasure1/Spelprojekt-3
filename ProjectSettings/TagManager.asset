@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Note
   - Key
+  - Text
+  - Light
   layers:
   - Default
   - TransparentFX

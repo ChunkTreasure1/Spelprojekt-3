@@ -7,6 +7,9 @@ public class ObjectiveFive : MonoBehaviour
     public AudioSource audio;
     public bool IsActive;
     Note note;
+    public GameObject mannequin;
+    public DoorScript door;
+    public ObjectiveSix objectiveSix;
 
     private void Start()
     {
@@ -18,6 +21,16 @@ public class ObjectiveFive : MonoBehaviour
         if (IsActive && note.gameIsPaused && note.page2)
         {
             audio.Play();
+            mannequin.SetActive(true);
+            objectiveSix.IsActive = true;
+            
+            IsActive = false;
+
+            GameObject[] arr = GameObject.FindGameObjectsWithTag("Light");
+            for (int i = 0; i < arr.Length; i++)
+            {
+                arr[i].GetComponent<Light>().enabled = false;
+            }
         }
     }
 }

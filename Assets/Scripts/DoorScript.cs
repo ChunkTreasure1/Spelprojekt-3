@@ -7,7 +7,7 @@ public class DoorScript : MonoBehaviour
     public GameObject door;
     public bool IsLocked = false;
     bool inCollider = false;
-    bool IsOpen = false;
+    public bool IsOpen = false;
 
     float Value = 0;
     float TargetTime = 3f;
