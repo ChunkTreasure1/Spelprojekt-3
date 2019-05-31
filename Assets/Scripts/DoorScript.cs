@@ -4,8 +4,16 @@ using UnityEngine;
 
 public class DoorScript : MonoBehaviour
 {
-    public Animator animator;
+    public GameObject door;
+    public bool IsLocked = false;
     bool inCollider = false;
+    bool IsOpen = false;
+
+    float Value = 0;
+    float TargetTime = 3f;
+    float StartTime = 3f;
+    float CloseValue = 0;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -28,11 +36,48 @@ public class DoorScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (inCollider == true)
+        if (inCollider&& !IsLocked && !IsOpen)
         {
             if (Input.GetKeyDown(KeyCode.F))
             {
-                animator.SetBool("IsOpen", true);
+                IsOpen = true;
+            }
+        }
+
+        if (IsOpen)
+        {
+            if (Value <= 100)
+            {
+                Value += 1;
+                door.transform.Rotate(new Vector3(0, -1, 0));
+            }
+            else
+            {
+                TargetTime -= Time.deltaTime;
+
+                if (TargetTime <= 0f)
+                {
+                    TimerEnded();
+                }
+            }
+        }
+    }
+
+    void TimerEnded()
+    {
+        if (IsOpen)
+        {
+            if (CloseValue <= 100)
+            {
+                CloseValue += 1;
+                door.transform.Rotate(new Vector3(0, 1, 0));
+            }
+            else
+            {
+                IsOpen = false;
+                Value = 0;
+                CloseValue = 0;
+                TargetTime = StartTime;
             }
         }
     }
