@@ -10,11 +10,12 @@ public class ObjectiveFour : MonoBehaviour
     public DoorScript Door;
 
     public DoorScript[] KitchenDoors;
+    public ObjectiveFive objectiveFive;
 
     bool TimerStarted = false;
     bool OnOff = false;
-    float TargetTime = 1f;
-    float StartTime = 1f;
+    float TargetTime = 0.1f;
+    float StartTime = 0.1f;
 
     int TimesDone = 0;
 
@@ -50,10 +51,12 @@ public class ObjectiveFour : MonoBehaviour
                     TargetTime = StartTime;
                     TimesDone++;
 
-                    if (TimesDone == 5)
+                    if (TimesDone == 20)
                     {
                         TimerStarted = false;
+                        IsActive = false;
                         Door.IsLocked = false;
+                        objectiveFive.IsActive = true;
 
                         for (int i = 0; i < KitchenDoors.Length; i++)
                         {
@@ -71,10 +74,12 @@ public class ObjectiveFour : MonoBehaviour
                     TargetTime = StartTime;
                     TimesDone++;
 
-                    if (TimesDone == 5)
+                    if (TimesDone == 20)
                     {
                         TimerStarted = false;
+                        IsActive = false;
                         Door.IsLocked = false;
+                        objectiveFive.IsActive = true;
 
                         for (int i = 0; i < KitchenDoors.Length; i++)
                         {

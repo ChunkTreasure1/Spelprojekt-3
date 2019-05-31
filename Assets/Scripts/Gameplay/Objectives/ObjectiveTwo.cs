@@ -7,20 +7,23 @@ public class ObjectiveTwo : MonoBehaviour
     public ObjectiveThree objectiveThree;
     public GameObject barrel;
 
+    Note note;
     public bool IsActive = false;
+
+    private void Start()
+    {
+        note = this.GetComponent<Note>();
+    }
 
     // Update is called once per frame
     void Update()
     {
-        if (IsActive)
+        if (IsActive && note.gameIsPaused && note.page2)
         {
-            if (Input.GetKeyDown(KeyCode.F))
-            {
-                GameObject.Find("Gameplay/noteGameObject").SetActive(false);
-                barrel.SetActive(true);
-                objectiveThree.IsActive = true;
-                IsActive = false;
-            }
+            GameObject.Find("Gameplay/noteGameObject").SetActive(false);
+            barrel.SetActive(true);
+            objectiveThree.IsActive = true;
+            IsActive = false;
         }
     }
 }

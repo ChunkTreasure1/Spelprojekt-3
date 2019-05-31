@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class Note : MonoBehaviour
 {
-    public static bool gameIsPaused = false;
-    public static bool Page1 = true;
-    public static bool page2 = false;
+    public bool gameIsPaused = false;
+    public bool Page1 = true;
+    public bool page2 = false;
 
     public GameObject note1;
     public GameObject note2;

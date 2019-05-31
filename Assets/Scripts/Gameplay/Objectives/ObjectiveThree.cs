@@ -4,9 +4,13 @@ using UnityEngine;
 
 public class ObjectiveThree : MonoBehaviour
 {
+    public ObjectiveFour objectiveFour;
     public bool IsActive = false;
     public AudioSource audio;
     public AudioSource screamSound;
+
+    bool TimerStarted = false;
+    float TargetTime = 3f;
 
     private void OnTriggerEnter(Collider other)
     {
@@ -15,21 +19,25 @@ public class ObjectiveThree : MonoBehaviour
             if (other.CompareTag("Player"))
             {
                 audio.Play();
-                Timer();
+                TimerStarted = true;
                 GameObject.Find("Gameplay/noteGameObject1").SetActive(false);
+                objectiveFour.IsActive = true;
                 IsActive = false;
             }
         }
     }
 
-    IEnumerator Timer()
+    private void Update()
     {
-        while(true)
+        if (TimerStarted)
         {
-            yield return new WaitForSeconds(3f);
+            TargetTime -= Time.deltaTime;
 
-            screamSound.Play();
-            break;
+            if (TargetTime <= 0)
+            {
+                screamSound.Play();
+                TimerStarted = false;
+            }
         }
     }
 }
