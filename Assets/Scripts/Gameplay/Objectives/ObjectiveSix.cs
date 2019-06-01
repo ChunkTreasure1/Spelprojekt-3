@@ -1,12 +1,16 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class ObjectiveSix : MonoBehaviour
 {
     DoorScript door;
     public bool IsActive = false;
+    public GameObject panel;
 
+    float TargetTime = 3f;
+    bool TimerStarted = false;
     // Start is called before the first frame update
     void Start()
     {
@@ -18,8 +22,18 @@ public class ObjectiveSix : MonoBehaviour
     {
         if (door.IsOpen && IsActive)
         {
-            //KILL PLAYER
-            Debug.Log("Player killed");
+            panel.SetActive(true);
+            TimerStarted = true;
+        }
+
+        if (TimerStarted)
+        {
+            TargetTime -= Time.deltaTime;
+
+            if (TargetTime <= 0f)
+            {
+                SceneManager.LoadScene(0);
+            }
         }
     }
 }

@@ -51,7 +51,7 @@ public class ObjectiveFour : MonoBehaviour
                     TargetTime = StartTime;
                     TimesDone++;
 
-                    if (TimesDone == 20)
+                    if (TimesDone == 100)
                     {
                         TimerStarted = false;
                         IsActive = false;
@@ -74,7 +74,7 @@ public class ObjectiveFour : MonoBehaviour
                     TargetTime = StartTime;
                     TimesDone++;
 
-                    if (TimesDone == 20)
+                    if (TimesDone == 100)
                     {
                         TimerStarted = false;
                         IsActive = false;

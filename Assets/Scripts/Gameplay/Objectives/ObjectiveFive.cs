@@ -10,6 +10,7 @@ public class ObjectiveFive : MonoBehaviour
     public GameObject mannequin;
     public DoorScript door;
     public ObjectiveSix objectiveSix;
+    public ExitScript[] exitScripts;
 
     private void Start()
     {
@@ -23,8 +24,13 @@ public class ObjectiveFive : MonoBehaviour
             audio.Play();
             mannequin.SetActive(true);
             objectiveSix.IsActive = true;
-            
+            door.IsLocked = false;
             IsActive = false;
+
+            for (int i = 0; i < exitScripts.Length; i++)
+            {
+                exitScripts[i].IsActive = true;
+            }
 
             GameObject[] arr = GameObject.FindGameObjectsWithTag("Light");
             for (int i = 0; i < arr.Length; i++)
