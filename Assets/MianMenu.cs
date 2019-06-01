@@ -7,6 +7,6 @@ public class MianMenu : MonoBehaviour
 {
     public void PlayGame()
     {
-        sceneManager.LoadScene(SceneManager.GetActiveScene().BuildIndex + 1);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 }
