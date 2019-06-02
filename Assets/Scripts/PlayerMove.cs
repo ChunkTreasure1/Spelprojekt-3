@@ -13,9 +13,6 @@ public class PlayerMove : MonoBehaviour
     [SerializeField] private float runBuildUpSpeed;
     [SerializeField] private KeyCode runKey;
 
-    //REMOVE
-    [SerializeField] private Text text;
-
     private float movementSpeed;
     
 
@@ -34,8 +31,6 @@ public class PlayerMove : MonoBehaviour
 
     private void Start()
     {
-        text.text = "";
-        text.enabled = false;
     }
 
     private void Awake()
